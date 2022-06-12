@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\st\source\repos\katie\YANARUN\barrier.h(28,28): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+C:\Users\st\source\repos\katie\YANARUN\kvadrat.h(29,28): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+  YANARUN.vcxproj -> C:\Users\st\source\repos\katie\YANARUN\Debug\YANARUN.exe
